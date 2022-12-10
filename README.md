@@ -16,4 +16,4 @@ Communication between arduino and ESP are handled via serial connection.
 2) Flash the arduino with the IoT_Watering.Ino file
 3) Change the Definitions to the WiFi, and API to your own
 4) Flash that changed code to your ESP
-5) Have a health plant, you don't have to remember about!
+5) Have a healthy plant, you don't have to remember about!
